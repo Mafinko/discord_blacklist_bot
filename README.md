@@ -2,12 +2,6 @@
 
 Secure, Discord-only blacklist bot. There is no website, web server, browser dashboard, REST API, or HTML preview.
 
-GitHub description:
-
-```text
-Secure Discord-only blacklist bot with slash commands, searchable admin panel, role cleanup, JSON storage, and log embeds.
-```
-
 ## Preview
 
 Blacklist log embed:
